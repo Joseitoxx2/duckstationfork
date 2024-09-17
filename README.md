@@ -247,3 +247,10 @@ Hotkeys:
 Icon by icons8: https://icons8.com/icon/74847/platforms.undefined.short-title
 
 "PlayStation" and "PSX" are registered trademarks of Sony Interactive Entertainment Europe Limited. This project is not affiliated in any way with Sony Interactive Entertainment.
+
+
+
+
+EDIT:
+Download Files: [Latest Rolling Release]
+[Mediafire Folder](https://www.mediafire.com/folder/uedpj39gkght7/Duckstation_%5BLatest_Rolling_Release%5D)
